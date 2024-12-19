@@ -6,20 +6,19 @@ This repository serves as a showcase of my private projects. Below are descripti
 
 ## Botos Transcription Simulation
 
-This private repository contains simulations for transcription processes, developed as part of a research project. 
+This private repository contains simulations of the biological process of transcription, developed as part of a research project in the lab of Matthieu Lavigne. 
 
 ### Features
-- **Versions**: Nine stable versions, each improving scalability and biological accuracy.
+- **Versions**: 10+ stable versions, each improving scalability and biological accuracy.
 - **Highlights**:
-  - Realistic biological modeling
-  - Modular and efficient codebase
-  - Optimized for performance
+  - Created in both Python and C.
+  - Realistic biological stochastic modeling.
+  - Modular and efficient codebase.
+  - Optimized for performance (use of C).
+  - Machine learning for hyperparameter tuning by comparing real data to that produced by the simulation.
 
 ### Want to Learn More?
 The full codebase is private, but I’d be happy to discuss it during interviews or collaborations. Feel free to reach out!
 
 ---
 
-## [Other Project Name]
-
-Provide a similar structured description for your other private projects.
