@@ -6,7 +6,7 @@ This repository serves as a showcase of my private projects. Below are descripti
 
 ## Botos Transcription Simulation
 
-This private repository contains simulations of the biological process of transcription, developed as part of a research project in the lab of Matthieu Lavigne. 
+This private repository contains simulations of the biological process of transcription, developed as part of a research project in the lab of Dr. Matthieu Lavigne (IMBB-FORTH). 
 
 ### Features
 - **Versions**: 10+ stable versions, each improving scalability and biological accuracy.
